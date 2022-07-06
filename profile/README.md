@@ -1,5 +1,7 @@
 ## Team-Twohy Public Page
 
+There really isnt anything to see here if you are not a member of Team-Twohy.
+
 <!--
 
 **Here are some ideas to get you started:**
